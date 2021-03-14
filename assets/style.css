@@ -1,49 +1,91 @@
 body {
     margin: 0;
     padding: 0%;
+    background-color:black;
 }
 
-title{
-    color: teal;
+.title{
+    color :white;
+    margin: 0;
 }
 
 header {
     width: 100%;
     height: 70px;
-    background-color: black;
+    background-color:black;
 }
 
 h1 {
     position: absolute;
-    float: right;
-    margin-right: 2%;
-    margin-top: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-right: 0%;
+    margin-top:   10px;
+    font-family:'Courier New', Courier, monospace;
     color: white;
 
 }
 
 span{
-    color: white;
+    color:white;
 }
 
 ul{
     width: auto;
-    float: wieght;
-    margin-top: 8px;
+    float: right;
+    margin-top: 0px;
 }
 
 li{
     display: inline-block;
-    padding: 15px 30px;
+    padding: 20px 25px;
+    
 }
 
 a {
     text-align: center;
-    color:teal;
+    color:white;
     text-decoration: none;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.4vw;
+}
+
+img {
+    max-height: 100pc;
+    width: 85pc;
+    
+
+}
+
+.test{
+    position: absolute;
+    margin-left: 0rem;
+}
+
+h2 {
+   
+   background-color: white;
+    color: teal;
+    flex-wrap: wrap;
+    
+}
+
+section{
+    background-color: white;
+    color: teal;
+}
+
+div{
+float: right;
+background-color: white;
+color: black;
+
 }
 
 
+footer{
+background-color: black;
+color: white;
+width: 100%;
+height: 70px;
+
+}
