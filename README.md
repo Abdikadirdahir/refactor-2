@@ -1,6 +1,8 @@
 # portfolio-1
 Abdikadir Dahir
+
 Acceptance Criteria
+
 -source code
 -semantic html elements
 -structure html elements
@@ -10,6 +12,8 @@ Acceptance Criteria
 -heading attributes 
 -fall in sequential order
 -title element
+
+Mit license
 
 I am open to comments and feedback to correct or add to any of the work.
 
